@@ -1,6 +1,7 @@
 # QVirtualKeyboard
 
 #### 介绍
+fork:https://gitee.com/third_party_project_code/QVirtualKeyboard/tree/master/
 Qt5虚拟键盘支持中英文,仿qt官方的virtualkeyboard模块,但使用QWidget实现。
 
 #### 界面效果
